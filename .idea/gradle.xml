@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/SQLite Viewer/task" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/IntBinaryOperation" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Abstract class/Users and WebSites" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes properties/Calculator" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes properties/Create instance" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes properties/Iterations" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes properties/Managing a process" />
+            <option value="$PROJECT_DIR$/Topics/Anonymous classes properties/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Message notifier as a thread" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Multiple threads" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Numbers filter" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Starting runnables" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Starting threads" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/String processor" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Custom threads/Writing a thread for printing numbers" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Getting current thread info" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Is thread daemon" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Threads as objects/Thread name" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
